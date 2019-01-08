@@ -8,7 +8,7 @@ Challenges:
 2. The data is imbalanced
 
 # Key techniques:
-1. Data Preprocessing
+1. Data Preprocessing<br/>
 Open-slides, OpenCV
 
 2. CNN model:<br/>
