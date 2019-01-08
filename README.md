@@ -1,5 +1,5 @@
 # Cancer-Matastases-Detection
-• Develop an assistant tool for physicians that outputs a heatmap showing regions of a gigapixel pathology images likely to contain tumors.
+• Develop an assistant tool for physicians that outputs a heatmap showing regions of a gigapixel pathology images likely to contain tumors.<br/>
 • Preprocess the large-size image with [Open-slides, OpenCV] for special medical requirements and imbalance data, then use a carefully-designed CNN model to train. https://youtu.be/Jc7lqrB3Cxs
 
 Challenges:
@@ -7,10 +7,10 @@ Challenges:
 2. The data is imbalanced
 
 # Key techniques:
-## Data Preprocessing
+1. Data Preprocessing
 Open-slides, OpenCV
 
-## CNN model
+2. CNN model
 13 Conv layers with (batch normalization + LeakyReLU + some MaxPooling2D)
 GloAvgPooling
 Dense(1024), dropout=0.25
