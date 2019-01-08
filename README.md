@@ -22,3 +22,8 @@ Optimizer:  AdamOptimizer (lr=0.00005 with patience=10,  lr=0.000001 with patien
 # Result
 see https://github.com/JianhuanZeng/Cancer-Matastases-Detection/blob/master/Cancer%20Metastases%20Detection.pdf
 
+# Reference
+Detecting Cancer Metastases on Gigapixel Pathology Images by Yun Liu1?, Krishna Gadepalli1, Mohammad Norouzi1, George E. Dahl1, Timo Kohlberger1, Aleksey Boyko1, Subhashini Venugopalan2??, Aleksei Timofeev2, Philip Q. Nelson2, Greg S. Corrado1, Jason D. Hipp3, Lily Peng1, and Martin C. Stumpe1 <br/>
+also see: https://github.com/JianhuanZeng/Cancer-Matastases-Detection/blob/master/Detecting%20Cancer%20Metastases%20on%20Gigapixel%20Pathology%20Images.pdf
+
+
